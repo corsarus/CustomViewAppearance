@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>BF45CC9D-8770-4169-88E4-964CCFFD46A4</string>
+	<key>IDESourceControlProjectName</key>
+	<string>CustomViewAppearance</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>6996860530889EA41D1940AE6D9DD268F8913FE3</key>
+		<string>https://github.com/corsarus/CustomViewAppearance.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>CustomViewAppearance.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>6996860530889EA41D1940AE6D9DD268F8913FE3</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/corsarus/CustomViewAppearance.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>6996860530889EA41D1940AE6D9DD268F8913FE3</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>6996860530889EA41D1940AE6D9DD268F8913FE3</string>
+			<key>IDESourceControlWCCName</key>
+			<string>CustomViewAppearance</string>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -22,9 +22,4 @@
     self.textColor = textColor;
 }
 
-- (void)setTextColor:(UIColor *)textColor
-{
-//    [super setTextColor:self.contentColor];
-}
-
 @end
